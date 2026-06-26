@@ -61,7 +61,7 @@ export default function Navbar({ wallet, onConnectWallet, onDisconnect, networkI
           <div className="flex items-center gap-3.5">
             <div className="relative h-11 w-11 rounded-full border-2 border-amber-400/80 shadow-lg shadow-amber-500/20 overflow-hidden shrink-0">
               <img
-                src="/src/assets/images/oskayi_gold_logo_1782447987080.jpg"
+                src="/images/oskayi_gold_logo_1782447987080.jpg"
                 alt="Oskayi Logo"
                 className="h-full w-full object-cover"
                 referrerPolicy="no-referrer"

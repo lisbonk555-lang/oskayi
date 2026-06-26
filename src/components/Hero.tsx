@@ -54,7 +54,7 @@ export default function Hero({ onEnterApp, walletConnected }: HeroProps) {
             <div className="relative p-1 rounded-full bg-gradient-to-tr from-amber-400 via-brand-accent to-pink-500 shadow-2xl shadow-brand-accent/25 animate-pulse">
               <div className="relative h-28 w-28 rounded-full border-4 border-brand-dark overflow-hidden bg-brand-dark">
                 <img
-                  src="/src/assets/images/oskayi_gold_logo_1782447987080.jpg"
+                  src="/images/oskayi_gold_logo_1782447987080.jpg"
                   alt="Oskayi Gold Logo"
                   className="h-full w-full object-cover select-none"
                   referrerPolicy="no-referrer"

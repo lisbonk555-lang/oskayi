@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from 'motion/react';
 
 const SLIDES = [
   {
-    image: "/src/assets/images/smart_arbitrage_hero_1782447648375.jpg",
+    image: "/images/smart_arbitrage_hero_1782447648375.jpg",
     title: "1. Welcome to Oskayi Instant Capital",
     note: "Prices can differ across digital cryptocurrency exchanges. Our system instantly spots these price differences and secures risk-free trades for our users automatically.",
     tag: "MODULE 01 • WELCOME",
@@ -12,7 +12,7 @@ const SLIDES = [
     icon: Layers
   },
   {
-    image: "/src/assets/images/flash_loan_diagram_1782447662278.jpg",
+    image: "/images/flash_loan_diagram_1782447662278.jpg",
     title: "2. What is a Flash Loan?",
     note: "Need millions of dollars to complete a high-value trade? Flash loans let you borrow massive capital with zero collateral, as long as it is borrowed and repaid within a single block.",
     tag: "MODULE 02 • WEALTH GENERATION",
@@ -20,7 +20,7 @@ const SLIDES = [
     icon: HelpCircle
   },
   {
-    image: "/src/assets/images/smart_arbitrage_hero_1782447648375.jpg",
+    image: "/images/smart_arbitrage_hero_1782447648375.jpg",
     title: "3. The Power of Atomic Trades",
     note: "All actions happen in one package. If we borrow capital, execute the swap, and repay the loan in a single step, the blockchain guarantees success or reverts everything safely.",
     tag: "MODULE 03 • ATOMIC FLOW",
@@ -28,7 +28,7 @@ const SLIDES = [
     icon: Cpu
   },
   {
-    image: "/src/assets/images/blockchain_gas_chart_1782448006480.jpg",
+    image: "/images/blockchain_gas_chart_1782448006480.jpg",
     title: "4. Decentralized Arbitrage",
     note: "Decentralized exchanges like Aerodrome and Uniswap have separate liquidity pools. When a large trade happens on one, prices get out of sync. We capture that gap!",
     tag: "MODULE 04 • PRICE PARITY",
@@ -36,7 +36,7 @@ const SLIDES = [
     icon: RefreshCw
   },
   {
-    image: "/src/assets/images/risk_recovery_shield_1782447676975.jpg",
+    image: "/images/risk_recovery_shield_1782447676975.jpg",
     title: "5. Zero Capital Loss Protection",
     note: "Your personal funds are never at risk. If a trade is not profitable enough to cover the loan repayment plus interest, the transaction cancels and no funds are ever lost.",
     tag: "MODULE 05 • RISK SAFEGUARD",
@@ -44,7 +44,7 @@ const SLIDES = [
     icon: Shield
   },
   {
-    image: "/src/assets/images/multi_token_swap_vault_1782448020199.jpg",
+    image: "/images/multi_token_swap_vault_1782448020199.jpg",
     title: "6. Smart Routing Architecture",
     note: "Our smart algorithms automatically find the most efficient routing paths across diverse token pairs like USDC, Ethereum, and DAI to maximize output yield.",
     tag: "MODULE 06 • SMART ROUTER",
@@ -52,7 +52,7 @@ const SLIDES = [
     icon: Layers
   },
   {
-    image: "/src/assets/images/blockchain_gas_chart_1782448006480.jpg",
+    image: "/images/blockchain_gas_chart_1782448006480.jpg",
     title: "7. Powered by Base Network",
     note: "We run our engine exclusively on Base, Coinbase's Layer-2 network. This ensures transaction fees are fractions of a cent, ensuring high profit margins on every single run.",
     tag: "MODULE 07 • COINBASE L2",
@@ -60,7 +60,7 @@ const SLIDES = [
     icon: Cpu
   },
   {
-    image: "/src/assets/images/multi_token_swap_vault_1782448020199.jpg",
+    image: "/images/multi_token_swap_vault_1782448020199.jpg",
     title: "8. Liquidity Pool Deep Analysis",
     note: "Our system measures the depth of various asset pools on-chain. This avoids price slippage, making sure large order executions get the exact price projected.",
     tag: "MODULE 08 • DEPTH SENSORS",
@@ -68,7 +68,7 @@ const SLIDES = [
     icon: Info
   },
   {
-    image: "/src/assets/images/smart_arbitrage_hero_1782447648375.jpg",
+    image: "/images/smart_arbitrage_hero_1782447648375.jpg",
     title: "9. Superfast 2-Second Blocks",
     note: "Speed is everything in crypto trading. Because the Base network updates in just 2 seconds, our scanners run continuously to submit winning transactions ahead of others.",
     tag: "MODULE 09 • SPEED MATRIX",
@@ -76,7 +76,7 @@ const SLIDES = [
     icon: RefreshCw
   },
   {
-    image: "/src/assets/images/flash_loan_diagram_1782447662278.jpg",
+    image: "/images/flash_loan_diagram_1782447662278.jpg",
     title: "10. Trustless Smart Contracts",
     note: "No human middlemen are needed. Immutable smart contract code enforces the rules, meaning the terms of loans and payouts cannot be manipulated or altered by anyone.",
     tag: "MODULE 10 • SMART ESCROW",
@@ -84,7 +84,7 @@ const SLIDES = [
     icon: Check
   },
   {
-    image: "/src/assets/images/blockchain_gas_chart_1782448006480.jpg",
+    image: "/images/blockchain_gas_chart_1782448006480.jpg",
     title: "11. Real-Time Gas Saving Matrix",
     note: "Gas costs fluctuate based on blockchain traffic. Our execution manager continuously optimizes smart contract calls, keeping overhead to an absolute minimum.",
     tag: "MODULE 11 • GAS SAVER",
@@ -92,7 +92,7 @@ const SLIDES = [
     icon: Cpu
   },
   {
-    image: "/src/assets/images/risk_recovery_shield_1782447676975.jpg",
+    image: "/images/risk_recovery_shield_1782447676975.jpg",
     title: "12. Lending Pool Safeguards",
     note: "We safeguard decentralized lending markets like Aave and Morpho. By performing healthy pool liquidations, we prevent system collapse while collecting on-chain bonuses.",
     tag: "MODULE 12 • LIQUIDATION SHIELD",
@@ -100,7 +100,7 @@ const SLIDES = [
     icon: Shield
   },
   {
-    image: "/src/assets/images/smart_arbitrage_hero_1782447648375.jpg",
+    image: "/images/smart_arbitrage_hero_1782447648375.jpg",
     title: "13. Premium Oracle Connection",
     note: "Our nodes connect directly to real-time decentralized price feeds. This guarantees our price data is accurate to the millisecond, avoiding outdated trade submissions.",
     tag: "MODULE 13 • ORACLE SYNCS",
@@ -108,7 +108,7 @@ const SLIDES = [
     icon: RefreshCw
   },
   {
-    image: "/src/assets/images/oskayi_gold_logo_1782447987080.jpg",
+    image: "/images/oskayi_gold_logo_1782447987080.jpg",
     title: "14. Institutional Capital for All",
     note: "Advanced trading strategies are usually locked behind wall-street funds. Oskayi opens up institutional-grade atomic capital to anyone with a connected Web3 wallet.",
     tag: "MODULE 14 • EQUITABLE DEFI",
