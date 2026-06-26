@@ -1,0 +1,6 @@
+{
+  "name": "Oskayi Instant Capital",
+  "description": "Institutional flash loan infrastructure on Base Mainnet. Borrow instantly, execute profitable transactions, and repay automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
